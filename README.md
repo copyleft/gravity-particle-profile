@@ -4,6 +4,8 @@ For *Gravity Assist* homepage profile.
 
 Video demonstration: https://www.youtube.com/watch?v=Zid3ZD3baAI
 
+Live demonstration: http://copyleft.github.io/gravity-particle-profile/
+
 ```
 
 The MIT License (MIT)
