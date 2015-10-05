@@ -2,6 +2,8 @@ Plasma particle effect field using [brownian motion](https://en.wikipedia.org/wi
 
 For *Gravity Assist* homepage profile.
 
+Video demonstration: https://www.youtube.com/watch?v=Zid3ZD3baAI
+
 ```
 
 The MIT License (MIT)
